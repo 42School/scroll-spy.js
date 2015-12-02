@@ -1,0 +1,17 @@
+{
+  "name": "scrollspy",
+  "main": "scrollspy.js",
+  "version": "0.0.1",
+  "authors": [
+    "Frédéric GRATI <grati.frederic@gmail.com>"
+  ],
+  "description": "scrollspy bootstrap",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

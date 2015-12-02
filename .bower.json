@@ -1,0 +1,26 @@
+{
+  "name": "scrollspy",
+  "main": "scrollspy.js",
+  "authors": [
+    "Frédéric GRATI <grati.frederic@gmail.com>"
+  ],
+  "description": "scrollspy bootstrap",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/fredericgrati/scrollspy-bootstrap",
+  "_release": "155fd24d0e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "155fd24d0ef87547babb77e3e782f27ff71a1dae"
+  },
+  "_source": "https://github.com/fredericgrati/scrollspy-bootstrap.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/fredericgrati/scrollspy-bootstrap.git"
+}
